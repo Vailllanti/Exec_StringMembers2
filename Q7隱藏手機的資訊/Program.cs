@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Q7隱藏手機的資訊
+namespace Q8隱藏手機的資訊
 {
 	internal class Program
 	{

@@ -15,7 +15,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q5比對使用者輸入值�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q6比對使用者輸入值是否為 Allen, 區分大小寫", "Q6比對使用者輸入值是否為 Allen, 區分大小寫\Q6比對使用者輸入值是否為 Allen, 區分大小寫.csproj", "{9BD32ED9-D6D7-4B6A-A91F-AC58B1C76C48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q7隱藏手機的資訊", "Q7隱藏手機的資訊\Q7隱藏手機的資訊.csproj", "{A513FF05-7271-4FA9-84D9-84A19857FD0F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q8隱藏手機的資訊", "Q7隱藏手機的資訊\Q8隱藏手機的資訊.csproj", "{A513FF05-7271-4FA9-84D9-84A19857FD0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q7計算兩數之和,並只呈現小數二位數", "Q7計算兩數之和,並只呈現小數二位數\Q7計算兩數之和,並只呈現小數二位數.csproj", "{8EF839EB-B3C4-4C8C-B9F6-8ED696FE785C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{A513FF05-7271-4FA9-84D9-84A19857FD0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A513FF05-7271-4FA9-84D9-84A19857FD0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A513FF05-7271-4FA9-84D9-84A19857FD0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EF839EB-B3C4-4C8C-B9F6-8ED696FE785C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EF839EB-B3C4-4C8C-B9F6-8ED696FE785C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EF839EB-B3C4-4C8C-B9F6-8ED696FE785C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EF839EB-B3C4-4C8C-B9F6-8ED696FE785C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
